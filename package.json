@@ -4,7 +4,7 @@
   "description": "Decode encoded-as-aaencode JavaScript program. (ﾟДﾟ) ['_'] ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
@@ -24,5 +24,8 @@
   "homepage": "https://github.com/cat-in-136/aadecode-cli#readme",
   "dependencies": {
     "minimist": "^1.2.0"
+  },
+  "devDependencies": {
+    "tmp": "0.0.31"
   }
 }
