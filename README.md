@@ -19,3 +19,8 @@ Usage: aadecode [OPTION]... [FILE]
 -h, --help           display this help and exit
 -v, --version        output version information and exit
 ```
+
+## See also
+
+ * [Original encoder "aaencode" as a web application](http://utf-8.jp/public/aaencode.html)
+ * [Original decoder "aadecode" as a web application](https://cat-in-136.github.io/2010/12/aadecode-decode-encoded-as-aaencode.html)
