@@ -15,6 +15,9 @@
   ],
   "author": "@cat_in_136",
   "license": "MIT",
+  "bin": {
+    "aadecode": "./index.js"
+  },
   "bugs": {
     "url": "https://github.com/cat-in-136/aadecode-cli/issues"
   },

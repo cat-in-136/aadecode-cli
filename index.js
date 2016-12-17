@@ -60,7 +60,7 @@ var argv = minimist(process.argv.slice(2), {
 });
 
 if (argv.help) {
-    process.stdout.write("Usage: aadecode-cli [OPTION]... [FILE]\n");
+    process.stdout.write("Usage: aadecode [OPTION]... [FILE]\n");
     process.stdout.write(" -o, --output=FILE    output to FILE\n");
     process.stdout.write(" -h, --help           display this help and exit\n");
     process.stdout.write(" -v, --version        output version information and exit\n");
