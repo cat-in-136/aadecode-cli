@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/cat-in-136/aadecode-cli/issues"
   },
-  "homepage": "https://github.com/cat-in-136/aadecode-cli#readme"
+  "homepage": "https://github.com/cat-in-136/aadecode-cli#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }
