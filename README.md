@@ -2,7 +2,7 @@
 Decode encoded-as-aaencode JavaScript program.
 
 [![npm version](https://badge.fury.io/js/aadecode-cli.svg)](https://badge.fury.io/js/aadecode-cli)
-[![Build Status](https://travis-ci.org/cat-in-136/aadecode-cli.svg?branch=master)](https://travis-ci.org/cat-in-136/aadecode-cli)
+[![Node.js CI](https://github.com/cat-in-136/aadecode-cli/workflows/Node.js%20CI/badge.svg)](https://travis-ci.org/cat-in-136/aadecode-cli)
 
 ## How to Use
 
